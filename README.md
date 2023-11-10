@@ -38,7 +38,7 @@
 ### 시각화
 <수술여부>
 
-<img src="images\.ipynb_checkpoints\수술여부-checkpoint.png" width="200"> 
+<img src="images\.ipynb_checkpoints\수술여부-checkpoint.png" width="400"> 
 
 ### 분석스토리 
 
