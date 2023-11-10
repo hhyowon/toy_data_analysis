@@ -38,7 +38,7 @@
 ### 시각화
 <수술여부>
 
-<img src="images\.ipynb_checkpoints\수술여부-checkpoint.png" width="500"> 
+<img src="images\.ipynb_checkpoints\수술여부-checkpoint.png" width="200"> 
 
 ### 분석스토리 
 
@@ -52,6 +52,7 @@
 
 <img src="images\분석.png" width="800"> 
 ----
+
 ### 🙋🏻‍♂️분석가 : 김명곤
 
 <details>
